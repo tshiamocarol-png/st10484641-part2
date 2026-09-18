@@ -1,4 +1,5 @@
-# st10484641-part2
+TSHIAMISO SEAKGOSING st10484641
+WEDE part2
 fixed html files with css.style as well
 
 
