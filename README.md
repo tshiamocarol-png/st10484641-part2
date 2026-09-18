@@ -26,6 +26,7 @@ A explained original styles for headings, paragraphs, links, forms, and buttons,
 For the layout structure I used CSS Flexbox for the header and forms, Grid for the main content area and footer to create a responsive, structured layout.
 For the Responsive design I added a media query at the 768px breakpoint with a on smaller screens, the navigation blocks vertically, footer switches to a single column, font sizes to adjust using relative units, and images scale using max-width of 100%.
 
+documentation-https://github.com/tshiamocarol-png/st10484641-part2/blob/main/desktop%20view.png that is the desktop as well as mobile view
 
  References
  MDN Web Docs. (2024). CSS: Cascading Style Sheets.
